@@ -4,7 +4,7 @@ This C# console application simulates a cinema ticketing system — but its true
 
 This project was intentionally **over-engineered** to explore and demonstrate mastery of object-oriented design principles and patterns. It is not intended for production use or realistic application.
 
-> This project was developed as part of a school assignment for a **Solution Architecture** course.
+> This project was developed as part of a school assignment for a **Software Architecture** course.
 
 ---
 
