@@ -1,4 +1,4 @@
-# 🎬 Cinema Ticket System – C# Design Patterns Showcase
+# Cinema Ticket System – C# Design Patterns Showcase
 
 This C# console application simulates a cinema ticketing system — but its true purpose is to serve as a playground for **intensive use of design patterns**. Created to demonstrate proficiency in software architecture and pattern implementation, this project intentionally applies a wide range of patterns far beyond typical necessity.
 
